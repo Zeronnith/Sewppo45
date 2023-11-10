@@ -1,0 +1,26 @@
+{
+  "name": "Matthew McLaughlin",
+  "age": 40,
+  "address": {
+    "street": "Nirno Park",
+    "city": "Usofewa",
+    "state": "AK",
+    "zip": "37509"
+  },
+  "contact": {
+    "phone": "(871) 459-4710",
+    "servicePhone": "800258381"
+  },
+  "birthday": "1976-01-08T02:09:17.317Z",
+  "ip": "201.194.191.192",
+  "foo": "bar",
+  "profile": {
+    "about": "Lasif kuru woggipib dolebej ru miziar ek sod vir ceegeov elmup usjo vuksak. We joemva feuspu oscose pianolu wofi par ur rohbese cuta sebmeom sidan tezpeb nolo. Zumlo gecenu me umeohlom wujovpi lepakis seh bovujic tepe gauw tep waopi dobiuri. Ibe tufpowi ovapais aruceso lof culakwe gucjogu te guc rudi abpuvim se koppouci vug getsiv egiwukrew.",
+    "bio": "Use ru esjudze govhah li howkesviv im umpomam owiz zufawevo fod si zuvwofnik ga. Onvola ihan boc hazitfes ipsu saj ahdazcoh fi ru gedafi terojken burekoli nete ugimulum boka ma kakok. Soci vorake gosomunib kitu iwiniset moz sen rivuglen foj saho lerni ehfe iczohjav. Rif jommu zokunir hotpoat er mibwuji kotme guwgom raepe gigmuuti bobruzkuk hafop. Luv kog kim losfopof jefefa ofesa heseoj mugafrol oh bovib enaomumi odi deid pifab. Koni biwocu mote toodce hun naefemew ked vo noc fem pubtadoj pi lieseoje ti he wifouhu."
+  },
+  "apiKey": "702712c820f63f40b31ab2e0f3560cbcd18b727eae5494a8dd08940893bd3d45",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
