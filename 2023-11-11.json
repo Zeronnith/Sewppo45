@@ -1,0 +1,26 @@
+{
+  "name": "Isaac Perkins",
+  "age": 21,
+  "address": {
+    "street": "Pece Grove",
+    "city": "Nawizaz",
+    "state": "NH",
+    "zip": "58059"
+  },
+  "contact": {
+    "phone": "(552) 378-1861",
+    "servicePhone": "800848224"
+  },
+  "birthday": "1961-03-23T10:09:40.738Z",
+  "ip": "204.86.91.16",
+  "foo": "bar",
+  "profile": {
+    "about": "Haruhjo unzaapu epatuc imalofa buugo fondipegi jagu ah tufgo johu bejaij apufadul nuj gufu ziha iku. Hul tedov wuruki sanodeba ciodhom jake bubi wahuf zurofneh gal ve gimiwek il ma. Odo isa niaz badur nupo nucot gejwiazu pofa ed pe ovo si. Rosato olwugan kib av nowmil hetpatwa meg odhe zot dorur sefonun gihop wegodemar havi podu gafo elno davo.",
+    "bio": "Va zazsa upaze ub efeki manive ulacorej wi corto olobieh jeg aru bijel tiw wofuja fobnanov gif kororhap. Gurwianu wu zofan jo haode pedop atafe jotwe jodi culuve zejko zid awbewo itezih gihkod obzi. Mu hon pugimco wizopowed rukaju puf agaof pa upkerzoc debciktu ne had."
+  },
+  "apiKey": "ba3d7bfd8beecfc3d887c87bbd9f8ab7252acaf77e6481a760ec9480805e9f5c",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
