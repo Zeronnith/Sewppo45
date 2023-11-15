@@ -1,0 +1,26 @@
+{
+  "name": "Janie Palmer",
+  "age": 30,
+  "address": {
+    "street": "Hofvaf Mill",
+    "city": "Egiimiwu",
+    "state": "AL",
+    "zip": "47900"
+  },
+  "contact": {
+    "phone": "(362) 592-9919",
+    "servicePhone": "800688195"
+  },
+  "birthday": "1983-04-25T11:30:35.273Z",
+  "ip": "236.127.21.207",
+  "foo": "bar",
+  "profile": {
+    "about": "Attodjat hajces lifwomhet hetaf imtamja ga duwuebe oroza lehud ib tigpad va kojal rocan cah nier pi. Cocor zusi revmum linaipa heela rupepug er emhonbi nul hoksu bedom tituwzit. Oho tog nefisuf oh uba eniva wed fad zuhdik kefeviaze ve sar.",
+    "bio": "Jap hi za iminewuzo tazma hunace toweca rut vimzi weabuako jutrogi rulvaepo wec pu pag fu ewigazgun tu. Ces wanwiduv as eg rofzohu upze kaep ugu evuiz be letcahip vat ihi efna doni ha. Zorgasroj deoci vebjutpu hajfe oga omkeoko re wezgulla af muigka ca uhoofi buovukaz. Paom oh di fu zifsidud iro ed ror ofsuvfed jajdij cupboval fafer zomivi vag ja azeahe me."
+  },
+  "apiKey": "4dbe843a3b1728645cfd51bbf385d53d4173d0c1700380941873ed74e6fbcf14",
+  "currency": {
+    "code": "IQD",
+    "name": "Iraq Dinar"
+  }
+}
