@@ -1,0 +1,26 @@
+{
+  "name": "Iva Ray",
+  "age": 52,
+  "address": {
+    "street": "Nili Parkway",
+    "city": "Botlofop",
+    "state": "OR",
+    "zip": "76034"
+  },
+  "contact": {
+    "phone": "(323) 884-7974",
+    "servicePhone": "800826542"
+  },
+  "birthday": "1976-02-09T22:49:13.203Z",
+  "ip": "70.12.100.140",
+  "foo": "bar",
+  "profile": {
+    "about": "Ago timaw tubjorlas wosadu poc tiado tuzas ru jes lusife av ho gebinvo ge opa kases wopitha vanzupi. Fomten sesodle gacjag ewuwecbat jifnen sadnirer siwdasca owoulhos aniwwud giej gisoh ejuruwa al fa se voberil. Bide siwu fu reiji mof mej woid ijoje kunallor dovte epe ilade vaoludaj heb larhuljab. Wik jaugeka pavut gewofuf keohuhi zejhoc filsam ban guluz ino luna un. Ji havnenho ravizlos wefamif do umozozwo redubuw mozumesi dadikgo nar dif kebmoose af mor vuoj ruwwu jutuwo.",
+    "bio": "Mevo zogoza tet widolaje vukorpa iple kitli fi nado pozga utdu ine. Efohevsuk fibavo foden tomeb veol sage puele fozsil tulinot gade sil vut dir. Ufukeos uzobewvi nufa ludari kuje kahzidik tuwijhe cutud ronrow olnafa iseip ec ca foujnet kojlil cuf nakori. Bahi miare lohig hujlujwa oza eztetad ke migoke cigosu heurouh reuruato pu tun fomzi vuuc ejroeni apnevfav."
+  },
+  "apiKey": "f458250bee889c0851a9b24e27539e8666a4a4feb8f8ab3a4c095f27a2b1c4fd",
+  "currency": {
+    "code": "BAM",
+    "name": "Bosnia and Herzegovina Convertible Marka"
+  }
+}
