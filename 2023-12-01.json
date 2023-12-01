@@ -1,0 +1,26 @@
+{
+  "name": "Leonard Cohen",
+  "age": 59,
+  "address": {
+    "street": "Bari Loop",
+    "city": "Kutlacu",
+    "state": "AK",
+    "zip": "93982"
+  },
+  "contact": {
+    "phone": "(217) 550-1955",
+    "servicePhone": "800857359"
+  },
+  "birthday": "1980-04-05T09:33:21.474Z",
+  "ip": "56.9.61.235",
+  "foo": "bar",
+  "profile": {
+    "about": "Wop can ihzok tiuki rekwi pon oco vatabo zacre so tu ce eni pe rowsiwij tukut mekipivuw hamkuru. Zasob egwa urcov of jiwufaz biz fuhebe tedfuc puj hefivuse si adakajtu nopi at uhe hehij sofrek okehagjup. Rajhez awave lokop migijob cive bujjow makvoza tu huoju voncepsem makiroli vobvul hu giaja ob. Manuf gigvew morwupiza let daipve gazuko ovetonik avgi gocetu ircu te abefip. Hil bozif rifceese du luk houkkoh do ficuk ra woj jumsek ram.",
+    "bio": "Luc kap giwikaz ulzapfu puc vimufe api jecha daswa kalcoloza tev kalolek sazpaej ebaciw. Kej ejewuato buhuw dezeccu ta ufeboji mikgenazu unhur ezipule vudliper piufewof lo zilguszok fukog jic bamjerba. Kuj povice ginofgi suwisade bi ibnohit eg bu nouzuk kuzauku saawdew po gaci dunegeh tuk. Umkim hurahaj gac we hilikho zawgez mapu nacege fimsop puzate voz ha kahnareb wufejog sukjomot acpehmiw elufiip."
+  },
+  "apiKey": "871c3e8a789cb2b5775636d818b9eb803291271ffdc5dba48b88c38187b4f37c",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
