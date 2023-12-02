@@ -1,0 +1,26 @@
+{
+  "name": "Cora Watson",
+  "age": 30,
+  "address": {
+    "street": "Fawev Drive",
+    "city": "Amepokaz",
+    "state": "WA",
+    "zip": "63676"
+  },
+  "contact": {
+    "phone": "(483) 696-7776",
+    "servicePhone": "800748448"
+  },
+  "birthday": "2004-04-07T04:28:09.235Z",
+  "ip": "45.139.68.62",
+  "foo": "bar",
+  "profile": {
+    "about": "Jiof sebto ub asolarsu ehzaeki coh pur ew tonakwe hulalu dis fihwijok ceg ez iwa ga. Nuszov wi gefha zewjuwcu dupirvo ca ojjukar ukmaki gakahvo jozad ove lopna var lu. Ba gin wivkot lazsapbot govheje lu di ecte gicub vihica eb gerwiuh.",
+    "bio": "Jokde mela fi gida woakaji pitpa doccedved hir dus zuj esomar jabeij icebog kaipaite acajajo efvij efu vaepoze. Eri ebpehmuw heriv asjo fila co sezju fugpa suj beup awocab podmadode ikace ma jazhewtet dezso ife. Fislikta wifbijve pis rowki cunpecif ga rurehra so leclijo ufcewi gunalu vosbupdem rues ir pekzut bolma orohaaf wow. Def je paol mizvo tagoku taohusa ebnollic sep tu vo pucbud zik. Mad ut jo sumad muhpa mo sov sezu tansa ki lugu ad mimaw holne tog dalligpub veutari jurala."
+  },
+  "apiKey": "2f61304e41a68b32715f057c91db1e9db64fe5f39200acdb51f96761eb56ab5c",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
