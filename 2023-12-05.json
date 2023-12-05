@@ -1,0 +1,26 @@
+{
+  "name": "Ola Singleton",
+  "age": 31,
+  "address": {
+    "street": "Olatuw Grove",
+    "city": "Hoguwa",
+    "state": "WV",
+    "zip": "97656"
+  },
+  "contact": {
+    "phone": "(658) 746-9139",
+    "servicePhone": "800278938"
+  },
+  "birthday": "1989-11-29T04:09:49.347Z",
+  "ip": "234.203.25.1",
+  "foo": "bar",
+  "profile": {
+    "about": "Vu vobced his lum vajgi jevbawano seatbor zove gitifano luhespe bisegipij rovdibur vi veza ofonazru. Watzingop hotca toca gualavas ba gazni tove uc wo jojokwe pufe begu fofaz. Uhonu raeku ka fi har neufu gi cazijtin nahri fe cip cihah osa hisizuwo.",
+    "bio": "Zoziruiv guatu omedo goropenoz ozoobap nu nekov hube wijgo ja kiuk copgotdos wozcemiv puuza epilat bajhuhkur laizalo onkojuz. Mabere opu covorrad fewu li nekew sirnisna fo hij kobavowa hatze givsuv umcolfe bot teromar kaippon. Usle kudafa sesus tubupjej doztun tuzso to gi uz wiziwti tobla pev tibha je mapko tit. Bez awiji nukepu fivariv tudve ka ku lelkuwu elolma zavborraj ikusatuk usa en vela oku hokip moopsuz. Bit goibe ficu ag jo sokahiti ru fira ru laccewke suk lan."
+  },
+  "apiKey": "2fd6e6c6c142339257a196d665a783869a69f559299908e2ae87192926963aa2",
+  "currency": {
+    "code": "RON",
+    "name": "Romania New Leu"
+  }
+}
