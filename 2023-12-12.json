@@ -1,0 +1,26 @@
+{
+  "name": "Bill Griffin",
+  "age": 19,
+  "address": {
+    "street": "Leda Avenue",
+    "city": "Jumeraj",
+    "state": "AR",
+    "zip": "08322"
+  },
+  "contact": {
+    "phone": "(519) 791-9939",
+    "servicePhone": "800214534"
+  },
+  "birthday": "1971-05-09T13:48:59.054Z",
+  "ip": "153.147.155.144",
+  "foo": "bar",
+  "profile": {
+    "about": "Zewiz wu tez oczabuk ge fihalo hormebgib nodi ruregiz num sonacke ize kif jarri. Guuhzo atmuc vum dokadoc kifsunej jefuna kiotu pivka juhzem ik oploroh uv te vat ralafoda fadne. Rurwuhu ko lucapu re duw purolep etikomwe zedamukav jav dib vuezguw mirila. Jocse alo seglivrat poik pe kingokru fucevja banav dodi virzazaw zave aknanbig sihhu mamzun. Gufet ijaso rimherem rep evam ji kah wiwbi fowmuoce muk cik gof coor.",
+    "bio": "Boh hutin luzu rat riem iteojcat kor ca lob wos izitoica nazwo ve zig. Uv ibipa caden vezli fem cew wuw ode widcuwfas be gub zenek ole ofna azamebope. Cohuc enhadof nog de mehuv botzimac womis retihi ti ta pepeg kuzsan azerirhe diw. Apo etlan ij vopapo bor kujtuig jempima mo jovomeza son vuno supo fedoga mur. Rejsu row penbip molrow kuj ciwojez el avkace buna tufhoome pa ajjuphef moro gokhohi korurto pedtikag wu olkeg."
+  },
+  "apiKey": "49a062062ffcb72a235fb895ef71f29ed29c46e8bbba1f455319d29ad2b06094",
+  "currency": {
+    "code": "ALL",
+    "name": "Albania Lek"
+  }
+}
