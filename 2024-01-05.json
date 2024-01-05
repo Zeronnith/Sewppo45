@@ -1,0 +1,26 @@
+{
+  "name": "Gregory Wilkins",
+  "age": 19,
+  "address": {
+    "street": "Gunro Point",
+    "city": "Uzcire",
+    "state": "TN",
+    "zip": "39423"
+  },
+  "contact": {
+    "phone": "(958) 542-8720",
+    "servicePhone": "800286379"
+  },
+  "birthday": "1968-04-02T11:28:38.038Z",
+  "ip": "74.61.2.69",
+  "foo": "bar",
+  "profile": {
+    "about": "Cideb bisizeza ija zilpi laljok rir cogaho wagi agivi pibzudof mawuc deg vidopeho isuatadom dejvi relvani me. Fobihlik me agu wetaf ve oseidwum hefo men sepweagi li elodugit wahida ku luk mumucu su tu. Epezez lora cof se no cawe folousa fuj gonuh jebazca vajheg fac cahuncuf.",
+    "bio": "Jur kekun vuw sip vonzuzego kiz hulu eri nu izovov to pat jit ve epeda admewpa copep vawko. Zefulhiw hofwi gat ha kipe ponoro ri vi bugwik or kuc ka. Ot zelzedle ur seip tifuv banobsa izumik rip wo decoiva nom ajajacfiw bi boltal go jun tuwu."
+  },
+  "apiKey": "9b62b6e34c320d5b010bd41e0fc5df11204d4ff0b4c50d12a24a1390ae7c4b89",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
