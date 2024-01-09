@@ -1,0 +1,26 @@
+{
+  "name": "Chad Briggs",
+  "age": 20,
+  "address": {
+    "street": "Hisav Key",
+    "city": "Narepol",
+    "state": "IA",
+    "zip": "80174"
+  },
+  "contact": {
+    "phone": "(457) 578-9106",
+    "servicePhone": "800597847"
+  },
+  "birthday": "1964-08-24T09:38:31.038Z",
+  "ip": "24.135.59.38",
+  "foo": "bar",
+  "profile": {
+    "about": "Da ocajalo mowut ucave rigwas vudur jurtog nef ginosur ine nebfi dotsassi mit ha teoz sakof. Eji hafatulap rupikzif irfejab gepot icav hunigtef udoibori ejukumas mobla vu cawsefzu vimasgi hokri on jali. Deljenepo rilkat zawris me jikpalo ranef war vuah limpe amefa icairu ebiic.",
+    "bio": "Ze raz pu bijiku ikcu popaw bilwavmuv oruduc fucoh wosewojuw sifde ubu morlole dofvuhkev woj no dehrifak. Geipe nupcide ku zu mafif dacocbam lu wi fucineb tinivkut paemsa tozgaiv lufurbe petgev. Od dasifme gi da azuwaawa ceokopa gicuru nogizkag fodev zej dif bawagu daz rebja domhilat."
+  },
+  "apiKey": "7d13f30c66f6c8689a48da3528b6dd961e87569d3138b44e7237c837275f7cc9",
+  "currency": {
+    "code": "MYR",
+    "name": "Malaysia Ringgit"
+  }
+}
