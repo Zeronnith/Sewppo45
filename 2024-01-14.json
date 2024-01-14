@@ -1,0 +1,26 @@
+{
+  "name": "Lee Mann",
+  "age": 41,
+  "address": {
+    "street": "Juwof Trail",
+    "city": "Bememera",
+    "state": "MI",
+    "zip": "67481"
+  },
+  "contact": {
+    "phone": "(639) 490-5672",
+    "servicePhone": "800657725"
+  },
+  "birthday": "1981-10-04T07:10:24.887Z",
+  "ip": "233.47.132.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Ifiwew izpaftas ki cokzif nu pampa rekkamuh hufgub uljemhi utiide ezo reklavgaw uh. Elgo li ote acaecki teup wusnusi to rencuav uk tudehbeb gezhi vewu uvdokvo vagu. Uwotuf zucwepvem ugo golus tile to vez simzuw nir filket leva fo ubugalca fo ho ezowir otuepowaf he.",
+    "bio": "Oki tozsal webekopu azahac fedgu puhib oh zojsur lajbutju nugitna fed ho ma pufgudmu jurle tijuset. Bopitute uki popwa kar budjuj tonej ofu kiub jigmisum nib iwcu mektih vapwi sor pevwav ci oppejo. Lew lecpone teguiva beluzu hes pi ode na faida rejesod diimipek famjazog pib rucmo bum mi ba."
+  },
+  "apiKey": "25da46baafd5020e44eb14df048b3092ea77093af23cc2844dce2c4a3e5fef0a",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
