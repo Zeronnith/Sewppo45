@@ -1,0 +1,26 @@
+{
+  "name": "Cecelia Wise",
+  "age": 33,
+  "address": {
+    "street": "Miraw Pike",
+    "city": "Lokeap",
+    "state": "WY",
+    "zip": "07913"
+  },
+  "contact": {
+    "phone": "(945) 401-2298",
+    "servicePhone": "800219281"
+  },
+  "birthday": "1976-01-17T00:43:39.985Z",
+  "ip": "138.160.169.198",
+  "foo": "bar",
+  "profile": {
+    "about": "Webe ibaima lador ej dekumla vir ujama sane vokoz otimukica de zekis fa doiga pismij. Vienec ruh leecko ku ut guduta med vipan ik zacanjam volugon naec cetru. Ilere ja bazso ebofa lejehegi cajuzvuz bomuble pi tikawle wujpedev ha jepriwu conparik amri firaf mocu nuwdogi.",
+    "bio": "Wombe burubgob tovujuuge wikovopir nizon no ji sevaek ilpajeh ottatcus ewri dacecnah peiluzu oppok bib woagda lofop uhduz. Zi mobmibruw wab bifjakof duw nobdoizo duhoalo lekoguw apmoib wa huhutner ajnocku abjo ituwanzu ij. Ew fozroc kinraren tu ram wapev nopugka get uwo ve lekedoc sufwah. Avadilse anra ne elu tutlep ika ozebumaj ebwauni odwac ilipuwun na ziwarmif tiraoh sep baaz fotabcaw fenomuk venno."
+  },
+  "apiKey": "29053f0c4c0c8f5893f9162825d5a047bda0d218e3144fdcad3654a98ff6cc1e",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
