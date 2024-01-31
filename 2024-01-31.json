@@ -1,0 +1,26 @@
+{
+  "name": "Ann Steele",
+  "age": 42,
+  "address": {
+    "street": "Lome Drive",
+    "city": "Belowbi",
+    "state": "OK",
+    "zip": "97393"
+  },
+  "contact": {
+    "phone": "(542) 465-8700",
+    "servicePhone": "800785873"
+  },
+  "birthday": "1996-09-15T16:50:56.832Z",
+  "ip": "249.50.200.164",
+  "foo": "bar",
+  "profile": {
+    "about": "Lo be do kiiki sokam fenihu fe wef ga wuz tamiper arlok zoz taup vozijmaz dejewzik kookacuj vojkiaku. Mozdo dow imilasu gebe rifisazi efodaut ade odkurgu kivemi bomki avveb ekamejij kuvcohum gu. Etvefiga ne zomsov ocfu odwuac hudi bot gewbub lippivaj paef no zipsesca kezaab zibhih oco zuhpopza.",
+    "bio": "Pi sejom gepmir wipo ohrag oltemzur aloju tigo luje witutis re oli we of bez. Sec wobuale jek sa hi lub aswulhom heka kud tiarula gidovzo fijew. Gapod en luvfodzez jehufa jouruar vok ornuef mosgoji viid sodu jeh pampowdok milsuja. Otetok nev ogfe gehpu vet erukeraz uzumiuva pu luruati bosvamjiw bikod top mu ji ufiel."
+  },
+  "apiKey": "71792633327f481fd842b2bcf2f12a8f8a14058cabedb9625201b45a7fbe0052",
+  "currency": {
+    "code": "MRO",
+    "name": "Mauritania Ouguiya"
+  }
+}
