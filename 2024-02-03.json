@@ -1,0 +1,26 @@
+{
+  "name": "Winnie Wolfe",
+  "age": 61,
+  "address": {
+    "street": "Gosmas Ridge",
+    "city": "Gozudba",
+    "state": "CA",
+    "zip": "56530"
+  },
+  "contact": {
+    "phone": "(558) 754-3399",
+    "servicePhone": "800763534"
+  },
+  "birthday": "1983-11-16T11:12:56.075Z",
+  "ip": "53.179.104.81",
+  "foo": "bar",
+  "profile": {
+    "about": "Kihje lazkir wercamu izi ku jewo ce di usulon nimcaene nim luf denezi hiuno zehipden wa futov va. Ebutosun lijvofe etiwa adhir kemaghiz assabat loz la degoscih wa cec oz we jezol ci bofohukit foranip. Cajduto jusosi nijcer tinmeni ve novoti na focop ga itata purvunos zaho.",
+    "bio": "Kuuj nidrela jukvu nu cuafji ramhe hole lewse es nenrikzuw jocu bu lindah. Sud itofurwi ihonimdof ferfendi ewoje iwufahuk gugava dotenena laad tu on gerhi geshu su uficusi nehoic hocpirogo zel. Ogo ip cut zed romib dumheg jawivwa zepoj gujmulod cikiemi zeh zo ipi zar dopgiv amuduup esona. Vu sowafak zuzusrir mof fasenkip se ruka cas unu uzecemul re jetutve wecvu."
+  },
+  "apiKey": "bf9510a799bb1d048274d7612d11be542b829124841a0d9cd1e4e858f79ee2ae",
+  "currency": {
+    "code": "SYP",
+    "name": "Syria Pound"
+  }
+}
