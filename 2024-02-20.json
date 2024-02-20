@@ -1,0 +1,26 @@
+{
+  "name": "Jose Wallace",
+  "age": 47,
+  "address": {
+    "street": "Kivlet Avenue",
+    "city": "Wonemged",
+    "state": "MD",
+    "zip": "38469"
+  },
+  "contact": {
+    "phone": "(372) 837-4124",
+    "servicePhone": "800293173"
+  },
+  "birthday": "1996-06-16T07:05:25.900Z",
+  "ip": "19.95.13.246",
+  "foo": "bar",
+  "profile": {
+    "about": "Okgo go vumnu awwud cujonu ihifa ojtaj liv ku aj faliwaj ju nehip sug wis nan moknaw la. Budbiw ta ko do vev soohaje zozu vac udiro dusoku bugsoswe gitifal tu. Zabuwad baj me enego ukenewen jadene domoh mopkuol wu buglosij vaj sut. Zal tetuscib cuukuupa weppig dupus len zibvepe gen ehorafgul nemzefmi faviker rojtizas net.",
+    "bio": "Hehapho ib ci hikof wokit podwirog ejpovi vireva tejic zugan vuazfuw pudofo. Cor ne zo ho kow re vokos ezimugheg afoz wutivo wuoj kejvu bek uj. Ma pebvussa fesajwew wowcoh epa kizuzap wotle buinuco fadmobje eniokezoj wufigri ap owaso fatnawe. Gow gi ni rem ohecir odatir hasa goke kojuvdis uku ini bi."
+  },
+  "apiKey": "ca06401ecc803a5b6e6a7132d7fd3d32c542d35905635846b62dee251c42c875",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
