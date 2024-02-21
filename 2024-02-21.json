@@ -1,0 +1,26 @@
+{
+  "name": "Gene Elliott",
+  "age": 19,
+  "address": {
+    "street": "Vatit Lane",
+    "city": "Apreded",
+    "state": "OK",
+    "zip": "84112"
+  },
+  "contact": {
+    "phone": "(933) 296-8924",
+    "servicePhone": "800235312"
+  },
+  "birthday": "1976-10-14T13:29:46.500Z",
+  "ip": "71.254.111.75",
+  "foo": "bar",
+  "profile": {
+    "about": "Haznidiza pi bap fona jehuron uparo baberok ta ashimaho widbinla go sudrumi jawuvaf. Ameogaban zape pa egolafof vuvkan cusvazov zit awameomi li ev nil ni. Cujrib pulgalep kocho wonaha taced awcik pufo aduwier ugo fievita foon ho. Ta ebaukuco rin tazgiw hul wo lidge vuatovu baldalmu su eruav ponezjo odi uho. Go ozjulfi lommahjon bohe jemcovso zuhdagas wel jihcinog cu rok ractu hotji botig wabkir tu.",
+    "bio": "Toihasev bih iptujah fitutag jojzi abebig te vuop lartap mun iwieb uwividmar huvuvwe ago. Om ha uvbagiz jirocwej kupepge ad cakudni se ir ro utu mafmawal taohcel izahmo kapu web. Olzo oj jamivi wis gajcibgew oseletose onurav duccud ode ti fi deow dirdoh siguwse itlaafu bohwe remabzon."
+  },
+  "apiKey": "27c84e9f79ed8bb5470198704b74c5da0ab766c14eb6f7e439f8108b5c767fcc",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
