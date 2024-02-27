@@ -1,0 +1,26 @@
+{
+  "name": "Anne Pearson",
+  "age": 53,
+  "address": {
+    "street": "Demucu Point",
+    "city": "Gotecto",
+    "state": "NH",
+    "zip": "14041"
+  },
+  "contact": {
+    "phone": "(209) 384-1204",
+    "servicePhone": "800717926"
+  },
+  "birthday": "2001-05-03T00:11:26.384Z",
+  "ip": "82.240.171.190",
+  "foo": "bar",
+  "profile": {
+    "about": "Caac atdaw ere bi kav gob maime di berapku rataab sim vuwlo. Jotom cubezi biw wujhuzab faitofo cuj cecves nij lijjajtoc hobenadu tu isido ru unu. Kab lauzu cetkog roahev ne wen imubohhac nepwiz lur saror tegumow puevbig zuaniul. La ecbek vazlovdur sevisa zadmeva mot pilkam rifur jandumaw apina goiva wa ehico gejiim si empi. Disid do tunzolhiv pito jufoj pi te rajuvap wuitpo saf hejuzup sajiwcap. Pajos hokdic ralaim ja sahwuti ma hekukito fenir guivi buvoripe laragume eda. Ancoso ug omgeho lahuviil aposurdel ip dowwul mewtofo la hegzebin rijcefal faj nokog tojgaw.",
+    "bio": "Bas gatjuh mawke ipuipmem bedobpim pimsano raslec zoh adce cuh uvozipis ifca. To ha sem uh fe uwaip welvazjo dag emi ju guhmi lezfugsag wu. Jofawre wi omevzig or gi gomemug jehovag guhifi fataz laffoege wehali ojlimli kafkiz egiewube mal vupvuh. Lu jitare ti tohi bedibuh mobem ovubo togif verum kejag wikritju ejuvlos su cidbu naflof uleru ibirerner."
+  },
+  "apiKey": "3e1229eb7e00f9a8da7c9b16762e0c5755f3f2ed143bfba56a27d417052a6433",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
