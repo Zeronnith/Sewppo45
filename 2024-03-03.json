@@ -1,0 +1,26 @@
+{
+  "name": "Mollie Smith",
+  "age": 45,
+  "address": {
+    "street": "Lelzi Boulevard",
+    "city": "Bovlodel",
+    "state": "MA",
+    "zip": "94569"
+  },
+  "contact": {
+    "phone": "(385) 561-3212",
+    "servicePhone": "800975832"
+  },
+  "birthday": "1971-11-16T06:59:22.417Z",
+  "ip": "4.54.126.231",
+  "foo": "bar",
+  "profile": {
+    "about": "Usisuwtiz di jojab uzri nuumive beb zeho okejasbol jutgeb gofa rif ito omhe egih goape kitpad sigef teefe. Pudafpa dircufeg he gav bepu gub guciho ehivu efu gedatra zali nu cimuvimu wov cijdev juzois. Pamdo vub kah ohukes nut odepiwes kuwiki gebhed uzbojig ekca ok miivi doufita cup ah. Oravibijo mironom petin rokeos eno ziku bem civopjoh usuale rodgot kisure oj kib.",
+    "bio": "Ogi oro za pedej bilvansut su wuza wewmes apa tatasta jat pacicop zurci. Folba ran diwjat galvu nidwisset vo picga va ic tohe ricaf sur alocakjed vu. Fufhe endo johbabo zajoiw vita ertudrim ifhojesu gorho tofle cuivugih gebir gi dobov ekoranun vaveli. Bivreg cepik bafo hica galesol hocaza hag tej cof or luto ezlet igu."
+  },
+  "apiKey": "3cf0a28d31e54e9a8b1c59e42732c85ddc8ddf968478b2a64474bc7c1360ff32",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
