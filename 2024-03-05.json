@@ -1,0 +1,26 @@
+{
+  "name": "Louisa Bennett",
+  "age": 35,
+  "address": {
+    "street": "Sadiza Way",
+    "city": "Gecteti",
+    "state": "NV",
+    "zip": "08023"
+  },
+  "contact": {
+    "phone": "(922) 683-2585",
+    "servicePhone": "800385183"
+  },
+  "birthday": "1978-01-22T13:40:43.985Z",
+  "ip": "162.183.27.163",
+  "foo": "bar",
+  "profile": {
+    "about": "Ale mi rusuaja eka rikpu laban buh ciludtad upimak amvasi duf ritik zektodi vuge cife vubuwe. Dazimiba doblepak wi lekweh pi wig pujogri ugi deejje ru vair rucamog sop zibboz. Kuuram ha derowe fite ugi jasena uzeuku haocavej ezilevec gojehafu jacaluifa mubcedluk wobugu dohwaddid.",
+    "bio": "Sefasuca evgir lecehje ris ez hamici misvunlus somcu evocizhah zukaj be hi nekdaj. Guv juhdidop gih huhzo cirota mimsijsoz kahu nonmul ehotujeh ewwa bavvu nucawa kadwor kep lombah sofzuc ipdawan nubi. Ve gor cak isudwil in ozofegba fa rupin cedra docauj zavguc gawiv heero guvozpi did ebrobna feituuje."
+  },
+  "apiKey": "26588235990e224e822c11c0a44c79afbfe690b59c9f82c1407440b2006ca142",
+  "currency": {
+    "code": "SBD",
+    "name": "Solomon Islands Dollar"
+  }
+}
