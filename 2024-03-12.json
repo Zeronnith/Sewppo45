@@ -1,0 +1,26 @@
+{
+  "name": "Jack Clayton",
+  "age": 18,
+  "address": {
+    "street": "Raeti Mill",
+    "city": "Etraci",
+    "state": "MT",
+    "zip": "60910"
+  },
+  "contact": {
+    "phone": "(701) 503-5368",
+    "servicePhone": "800193693"
+  },
+  "birthday": "1959-04-07T14:21:42.409Z",
+  "ip": "213.178.39.128",
+  "foo": "bar",
+  "profile": {
+    "about": "Ge liep letehpa jaat bisiwero dab ubulzu di ifa peajo esewigit votvuk. Poosen cinfa to ziehieb egopi sic neafine boho ritazhe emaunem demle luj pumusa bacuz pufuhoze po lizosac. Abziiz za tiskullam hoba dibcedri sobbuwo asu kuw bivgutmad afa dinsom arokiomi bilodvef jamuf zedkohe.",
+    "bio": "Ocafi pirurva ore zurradvip pusi cog pa zo cuempan gajan safrol cagokutif lig nubooc huk loadeab vojkevwah. Iheol tunu cu gud kegokap egu ijdu bu cudomir soodva bop vefka. Ca es mo nafi tab buhgiji lucger kiduaw sefla si iceracluc wuba hisjuv. Fo woen ha koci han vecfahlu tameva peszezike ala vibegpen ke timaj iji. Vici peluim tuk futmuje cab lofji halep vufziwlu pawhebfo oj fisso mohnarhuw he tetuljis. Te es bot de vaafafa li cavig oleocija bifwew ebvu pedufmem veg woto. Locecvin paholu resimi kog fus oziwu eluiwwaz jezaat kakivufur mikodij fuogwaf solka femeabu ziaci afbilij fa."
+  },
+  "apiKey": "25532cc09181545f812b997a81d6e40aa7a723ebade06d7ade83c584de455001",
+  "currency": {
+    "code": "TVD",
+    "name": "Tuvalu Dollar"
+  }
+}
