@@ -1,0 +1,26 @@
+{
+  "name": "Alberta Dixon",
+  "age": 57,
+  "address": {
+    "street": "Fuhpib Street",
+    "city": "Higormo",
+    "state": "MD",
+    "zip": "60661"
+  },
+  "contact": {
+    "phone": "(706) 831-8761",
+    "servicePhone": "800787558"
+  },
+  "birthday": "1984-03-30T13:34:13.107Z",
+  "ip": "36.34.229.18",
+  "foo": "bar",
+  "profile": {
+    "about": "Il lazlo runkub isu lok vagi ni ciwci mollusbe gelen acu evoogu pares pongem ewa. Sufuzece nipimnet nov api ku hew cu zabucna se ikvuc vaag bi uro naorjic mu agsispev. Lehewak unan bi zumpe uz ucirudham li kuk goj lutam oze fewun fevsogi ewecule utipi imezo.",
+    "bio": "Jot onru noda wapedne cosnus modugej wonus aszuaba reuci fothoz tapuge zaof fas soboh. Juminsu tafki niawi kiagazu si gidpe hef ikavewrit egout gudituw zezvivma ewpa isa nugvuv rawra wilef nahnajbaf. Tokadca siwce muahakon waczefuc wujeb ho nevvej wav vuv luus ziz firfed vuzoj dowetpep."
+  },
+  "apiKey": "3f83215a964ea4e9cdca2de640c13822b2794cbc563f199b647ff4c354b0c116",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
