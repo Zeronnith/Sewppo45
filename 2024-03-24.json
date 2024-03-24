@@ -1,0 +1,26 @@
+{
+  "name": "Maud Long",
+  "age": 22,
+  "address": {
+    "street": "Jojad Path",
+    "city": "Odgopuhe",
+    "state": "TN",
+    "zip": "04285"
+  },
+  "contact": {
+    "phone": "(678) 759-2208",
+    "servicePhone": "800992894"
+  },
+  "birthday": "1981-12-03T22:40:41.482Z",
+  "ip": "168.135.177.202",
+  "foo": "bar",
+  "profile": {
+    "about": "Cit vijva iv kugogi etmoles donugam sapit buc jerku lemmimrow ebulekah evciv fa. Jiz gozzu si bamuji osavat coki zavah zagum afe isukokik liwa buhe bofuhci cunjocva rohkas vecok. Jarehpe tetted gam az alboj zirpubbuk eboaz fawucmev si hosahhu niaviju lep kahumaiju kircew. Tozol ebni tuziwac dijnulunu jukade zope izaahofo roowuid heinji za zur muwah. Kapo biukin givpoj heugo fesrec zullur pune taurab he at ta cuz. Az jamosu gab ga rugar terawgo zuvu jortiweb wahpeahu juwlu gisgid towop libusiewe raw soju.",
+    "bio": "Ib manvogu jomemi ufuon vipon koogu pa loviwi zato nurup bu varsin dine. Ki dicpumic ocetefis panuw dahit roz tema dago sokuwteb suvrebena zonovohav isjajma vub zejeob awfu nufav adu. Zarseoba sopu wa he zowiz ruzufi tawan seh hintac bir ukgi jovekuzon. Uto geelum jehin ozomzoj nepwof kim ehauli wocbihmu ge obpof nal fopanu sor rupezzuh beznostoc."
+  },
+  "apiKey": "0df5065194506838137314d266614f7d7399c63034199901e4754d847f2a0c20",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
