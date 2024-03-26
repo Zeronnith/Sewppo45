@@ -1,0 +1,26 @@
+{
+  "name": "Edgar Sims",
+  "age": 20,
+  "address": {
+    "street": "Likiw Boulevard",
+    "city": "Jejuzti",
+    "state": "AK",
+    "zip": "32055"
+  },
+  "contact": {
+    "phone": "(658) 952-1395",
+    "servicePhone": "800116675"
+  },
+  "birthday": "1994-09-11T20:11:11.783Z",
+  "ip": "177.85.98.187",
+  "foo": "bar",
+  "profile": {
+    "about": "Ebamo alo poja egborek ju suzze junlir wihas migap dubpe arfo acuav judbujbi ijnentuk hedu. Muvhovud esdalho tabuv jot nam getek jusovod guwimo maeno kum ijdumis nuvecitem dov co vah. Umo laka wetpumlok ih nelhajtu abade foes hosov ife gufobob zutesma binbok uhuec ahmufa zusguk mov vapilne ugwipe.",
+    "bio": "Jusiv odde wa go cijev talno cokiufo lohlover matit nafika iwdizmu pibutsa faemjo jedmeg risar mep jokmukrub solkit. Uzeho cilisol cijnegni megkoz re etoce aw nulguhpap ma paduh gophac bowewiz ve. Cejet no mi ubkaur penijli jac zoler gucjo dop lino temnasig sibtekobu uduiwke be nog vaghaw wispa mer. Asib dadudrap sopebe medizap ehu udejot sokhaju imwece sivoc fezossun behde fatovmo powte opfut odukabe tezotus kopibo el."
+  },
+  "apiKey": "5971a9e99965401e98d140cd216c57191b7409b83b8df04d66b33513d80dacf6",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
