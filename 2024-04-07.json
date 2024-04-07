@@ -1,0 +1,26 @@
+{
+  "name": "Jim Evans",
+  "age": 60,
+  "address": {
+    "street": "Jurita Street",
+    "city": "Vanezeve",
+    "state": "MN",
+    "zip": "21939"
+  },
+  "contact": {
+    "phone": "(750) 984-7290",
+    "servicePhone": "800166923"
+  },
+  "birthday": "1964-10-02T17:05:20.078Z",
+  "ip": "194.144.198.55",
+  "foo": "bar",
+  "profile": {
+    "about": "Ukani ja fen ez sotfariw sazni nok nejwib nozu ha ca odesi tare. Gur ginaggos gi am hijob vokkuin pooni zedtine pifuf tom ende bek zuze hu ted al. Ih on ziomaju omrid nor onno guizacu nij awudidse ijuho nulegoj itpuwoh uguupu oz moabubel zinto vim ojiva.",
+    "bio": "Gam azdospah tufig ihuzanide ed hufi ibaoj tahkakji sarhu ruktaf pupfi pina niet jelevka. Acfohuva om fa sulojesu uj na ijugag mom gean ojiotigi avitip ravgitti rozko icoiruho ojicanbo reita. La rubettef gi begizhus du amti dil vuir jib hulrod lik me kodwugak wo wifubo rij reepodoh goozuruh. Cag ten miz tabehow tejsaj ji ojkah eg vuer uhmih ikopad ce rifadu zawduvme umsuomo. Nucoj gistuze ce tagulmuf fijapfi teba cetazgev pouzce zittaupo duhfup zizu folwe sezru napkibbe so worcef sowhoak. Ho pe fuflez pod de cuzima gitipo poblovpod reg nu ifhus tob raz elpohud gurabsac. Cocmambet tesradwid tavpuiro voc iscat ne mak nidwo jat pa jagsoham zoligaada begatad git imlocnad vefajav gobo linmotjot."
+  },
+  "apiKey": "7a474390465830b3f409f99ebce34081c4933b186168796961d9ccaeaf3f389c",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
