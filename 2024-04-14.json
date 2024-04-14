@@ -1,0 +1,26 @@
+{
+  "name": "Lola Lawrence",
+  "age": 45,
+  "address": {
+    "street": "Giru Glen",
+    "city": "Zoivdal",
+    "state": "NH",
+    "zip": "84911"
+  },
+  "contact": {
+    "phone": "(911) 623-2276",
+    "servicePhone": "800228863"
+  },
+  "birthday": "1992-10-04T17:31:54.625Z",
+  "ip": "143.107.58.99",
+  "foo": "bar",
+  "profile": {
+    "about": "Tatetbez dimecavu mojogus rut mewa iwumewjon ritra obato jeb mup huohi samo. Cotasug wasbaza lowdot jih uzihus bo ihsel noggi en fosih ro fu za. Ebezic homjalat certo hapev ho uzfazo me jed hipbaw gak sajeb wit vih sovgud tow ven umani vo.",
+    "bio": "Hapozu bopkohho bewgetig nabbuwbe ekdi gugu bitifvab mowpe famja redfikit baz faz bifbu. Puduhahej dud awued gegpo ki lino ocvakeb bo dafvik zahom apka ewwaw jajlucuw. Zicew ivugoilo akomab apajubi rafugcij coh famzitek do igimi weg zodnir zesickaj sa fonlo ke zitavu. Nejisto semvevis tirhaizo pu ra fuggu jeksa jaki ko ireidoare dubo pu wimvot fe ino vahefgi."
+  },
+  "apiKey": "15f7b240eda62d8a583763314d238bada1ad00705db019c92f4871cae7726652",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
